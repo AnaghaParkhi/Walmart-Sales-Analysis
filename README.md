@@ -1,6 +1,6 @@
-# Walmart Sales Analysis Dashboard
+## Walmart Sales Analysis Dashboard
 
-## 1. Project Overview
+### 1. Project Overview
 The Walmart Sales Analysis Dashboard provides a detailed view of Walmart's sales performance, customer behavior, product trends, inventory management, and promotional effectiveness. It enables data-driven decision-making and operational optimization.  
 
 **Tableau Dashboard Link:** [Walmart Sales Analysis](https://public.tableau.com/app/profile/anaghaparkhi/viz/WalmartSales_17468425655210/Analysis)
@@ -10,7 +10,7 @@ The Walmart Sales Analysis Dashboard provides a detailed view of Walmart's sales
 ![Walmart Sales Attrition Dashboard](images/walmart.png)
 ---
 
-## 2. Dataset Details
+### 2. Dataset Details
 The dataset contains **5,000 rows** of transactional data with the following columns:
 
 | Column Name              | Description |
@@ -50,14 +50,14 @@ The dataset contains **5,000 rows** of transactional data with the following col
 
 ---
 
-## 3. Tools & Technologies Used
+### 3. Tools & Technologies Used
 - **Data Analysis & Visualization:** Tableau  
 - **Dataset Format:** CSV  
 - **Data Size:** 5,000 transactions, 34 columns  
 
 ---
 
-## 4. Dashboard Highlights
+### 4. Dashboard Highlights
 - **Sales Trends:** Sales peaked in certain months, possibly around holidays or seasonal demand.  
 - **Product Performance:** Electronics and Grocery categories drove most revenue, while some categories lagged.  
 - **Customer Insights:** Customers with higher incomes and loyalty levels contributed disproportionately to revenue.  
@@ -67,8 +67,7 @@ The dataset contains **5,000 rows** of transactional data with the following col
 
 ---
 
-## 5. Dashboard Findings:
-## 6. Key Performance Indicators (KPIs)
+### 5. Dashboard Findings (KPIs):
 
 ### 🛒 Sales & Orders
 - **Total Sales:** $15.3M  
@@ -108,7 +107,7 @@ The dataset contains **5,000 rows** of transactional data with the following col
 - Regional and seasonal trends provide actionable insights for marketing, inventory, and forecasting strategies.
 ---
 
-## 6. Key Insights
+### 6. Key Insights
 - Monthly and seasonal trends have a significant impact on sales.  
 - Electronics and Grocery remain the most profitable categories.  
 - High-income and loyal customers are key revenue drivers.  
@@ -118,7 +117,7 @@ The dataset contains **5,000 rows** of transactional data with the following col
 
 ---
 
-## 7. Skills Demonstrated
+### 7. Skills Demonstrated
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
 - Tableau Dashboard Creation & Interactive Visualizations  
@@ -127,7 +126,7 @@ The dataset contains **5,000 rows** of transactional data with the following col
 
 ---
 
-## 8. Author
+### 8. Author
 **Anagha Parkhi**  
 - Email: [your-email@example.com]  
 - LinkedIn: [https://www.linkedin.com/in/anaghaparkhi](https://www.linkedin.com/in/anaghaparkhi)  
