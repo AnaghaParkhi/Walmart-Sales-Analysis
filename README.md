@@ -128,6 +128,5 @@ The dataset contains **5,000 rows** of transactional data with the following col
 
 ### 8. Author
 **Anagha Parkhi**  
-- Email: [your-email@example.com]  
 - LinkedIn: [https://www.linkedin.com/in/anaghaparkhi](https://www.linkedin.com/in/anaghaparkhi)  
 - GitHub: [https://github.com/anaghaparkhi](https://github.com/anaghaparkhi)  
