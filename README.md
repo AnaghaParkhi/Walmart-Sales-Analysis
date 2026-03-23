@@ -1,6 +1,6 @@
 ## Walmart Sales Analysis Dashboard
 
-### 1. Project Overview
+## 📌 Project Overview
 The Walmart Sales Analysis Dashboard provides a detailed view of Walmart's sales performance, customer behavior, product trends, inventory management, and promotional effectiveness. It enables data-driven decision-making and operational optimization.  
 
 **Tableau Dashboard Link:** [Walmart Sales Analysis](https://public.tableau.com/app/profile/anaghaparkhi/viz/WalmartSales_17468425655210/Analysis)
